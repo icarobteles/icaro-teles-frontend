@@ -1,0 +1,5 @@
+*.js
+vite.config.ts
+vite-env.d.ts
+dist/*
+vitest.config.ts
